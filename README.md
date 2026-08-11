@@ -20,7 +20,8 @@ Moves up toward the starting position.
 
 The animation continuously repeats.
 
-Features
+Features 
+
 🖥️ Tkinter GUI
 🎯 Dynamic screen-size detection
 🪟 Borderless window using overrideredirect()
